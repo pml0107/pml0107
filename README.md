@@ -1,16 +1,34 @@
-## Hi there 👋
+<div align="center">
+
+### <code>patrick@github:~$ whoami</code>
+
+<table>
+  <tr>
+    <td valign="top" width="460">
+      <img src="./assets/profile-ascii.svg" width="460" alt="Animated monochrome ASCII portrait of Patrick" />
+    </td>
+    <td valign="top" width="520">
+      <img src="./assets/info-card.svg" width="520" alt="Terminal style profile card for Patrick" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+### <code>patrick@github:~$ ./contributions</code>
+
+<img src="./assets/contribution-graph.svg" width="900" alt="Animated GitHub contribution heatmap for pml0107" />
+
+<br>
+
+### <code>patrick@github:~$ _</code>
+
+</div>
 
 <!--
-**pml0107/pml0107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Local regeneration:
+1. Place or replace your portrait photo at assets/input/portrait.jpg
+2. Install dependencies: python -m pip install -r scripts/requirements-portrait.txt
+3. Fetch data: python scripts/fetch_contributions.py --username pml0107
+4. Regenerate assets: python scripts/build_profile.py
 -->

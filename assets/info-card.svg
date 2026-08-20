@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="314" viewBox="0 0 520 314" role="img" aria-labelledby="title desc">
+  <title id="title">Patrick terminal info card</title>
+  <desc id="desc">A neofetch-inspired developer profile card for Patrick.</desc>
+  <rect width="100%" height="100%" rx="8" fill="#0d1117"/>
+  <rect x="0.5" y="0.5" width="519" height="313" rx="7.5" fill="none" stroke="#30363d"/>
+  <circle cx="25" cy="25" r="5" fill="#ff7b72"/>
+  <circle cx="43" cy="25" r="5" fill="#d29922"/>
+  <circle cx="61" cy="25" r="5" fill="#3fb950"/>
+  <style>
+    text { font: 15px ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; fill: #c9d1d9; }
+    .prompt { fill: #39d353; font-weight: 700; }
+    .key { fill: #58a6ff; }
+    .sep { fill: #8b949e; }
+    .muted { fill: #484f58; }
+  </style>
+  <text x="34" y="62"><tspan class="prompt">patrick@github</tspan><tspan class="sep">:~$</tspan><tspan> neofetch</tspan></text>
+  <line x1="34" y1="78" x2="486" y2="78" stroke="#21262d"/>
+  <text x="34" y="100" opacity="0"><tspan class="key">name</tspan><tspan class="sep"> :: </tspan><tspan>Patrick</tspan><animate attributeName="opacity" from="0" to="1" begin="0.25s" dur="0.22s" fill="freeze" /></text><text x="34" y="127" opacity="0"><tspan class="key">github</tspan><tspan class="sep"> :: </tspan><tspan>@pml0107</tspan><animate attributeName="opacity" from="0" to="1" begin="0.37s" dur="0.22s" fill="freeze" /></text><text x="34" y="154" opacity="0"><tspan class="key">role</tspan><tspan class="sep"> :: </tspan><tspan>Developer &amp; SaaS Builder</tspan><animate attributeName="opacity" from="0" to="1" begin="0.49s" dur="0.22s" fill="freeze" /></text><text x="34" y="181" opacity="0"><tspan class="key">location</tspan><tspan class="sep"> :: </tspan><tspan>Germany</tspan><animate attributeName="opacity" from="0" to="1" begin="0.61s" dur="0.22s" fill="freeze" /></text><text x="34" y="208" opacity="0"><tspan class="key">stack</tspan><tspan class="sep"> :: </tspan><tspan>Next.js / TypeScript / Supabase</tspan><animate attributeName="opacity" from="0" to="1" begin="0.73s" dur="0.22s" fill="freeze" /></text><text x="34" y="235" opacity="0"><tspan class="key muted">      </tspan><tspan>Power Platform / Power Apps / Power Automate</tspan><animate attributeName="opacity" from="0" to="1" begin="0.85s" dur="0.22s" fill="freeze" /></text><text x="34" y="262" opacity="0"><tspan class="key">focus</tspan><tspan class="sep"> :: </tspan><tspan>SaaS / Automation / Business Software</tspan><animate attributeName="opacity" from="0" to="1" begin="0.97s" dur="0.22s" fill="freeze" /></text>
+  <text x="34" y="285" opacity="0"><tspan class="prompt">status</tspan><tspan class="sep"> :: </tspan><tspan>building quiet software that does the work</tspan>
+    <animate attributeName="opacity" from="0" to="1" begin="1.18s" dur="0.3s" fill="freeze" />
+  </text>
+</svg>
