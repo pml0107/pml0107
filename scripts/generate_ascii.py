@@ -9,7 +9,7 @@ from svg_utils import ASSETS, esc, write_text
 
 
 DEFAULT_INPUT = ASSETS / "input" / "portrait-prepared.png"
-DEFAULT_OUTPUT = ASSETS / "profile-ascii.svg"
+DEFAULT_OUTPUT = ASSETS / "profile-ascii-v2.svg"
 RAMP = " .`:-=+*#%@"
 
 
@@ -92,4 +92,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

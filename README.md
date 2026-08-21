@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td valign="top" width="460">
-      <img src="./assets/profile-ascii.svg" width="460" alt="Animated monochrome ASCII portrait of Patrick" />
+      <img src="./assets/profile-ascii-v2.svg" width="460" alt="Animated monochrome ASCII portrait of Patrick" />
     </td>
     <td valign="top" width="520">
       <img src="./assets/info-card.svg" width="520" alt="Terminal style profile card for Patrick" />
